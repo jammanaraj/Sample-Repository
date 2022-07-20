@@ -1,0 +1,7 @@
+good morning all
+
+>i have completed powershell related tasks which were given by eswari for this week.
+
+digital and cloud LOB Induction
+
+>looking into concepts of creation of domain controller and load balancer in azure using powershell
